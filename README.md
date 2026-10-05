@@ -1,2 +1,2 @@
-# tibeb_wars_offline_multi_player_quiz_game
+# Tibeb wars offline multi player quiz game
 Offline multi player offline quiz game questions
