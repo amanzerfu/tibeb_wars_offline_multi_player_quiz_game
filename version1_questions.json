@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cap_flag_01",
+    "question": "Which sovereign nation flies this national standard?",
+    "flagEmoji": "🇪🇹",
+    "layoutType": "grid",
+    "options": ["Kenya", "Ethiopia", "Ghana", "Senegal"],
+    "correctAnswer": 1,
+    "points": 100
+  },
+  {
+    "id": "cap_flag_02",
+    "question": "Name the capital city of this country: 🇯🇵",
+    "flagEmoji": "🇯🇵",
+    "layoutType": "grid",
+    "options": ["Seoul", "Kyoto", "Tokyo", "Osaka"],
+    "correctAnswer": 2,
+    "points": 100
+  }
+]
